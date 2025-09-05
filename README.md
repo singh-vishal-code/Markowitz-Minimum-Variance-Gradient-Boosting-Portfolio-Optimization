@@ -1,4 +1,4 @@
-# Markowitz-Minimum-Variance-Gradient-Boosting-Portfolio-Optimization
+# Markowitz Theory with Gradient Boosting for Optimal Portfolios
 This project combines portfolio optimization based on Markowitz Modern Portfolio Theory (MPT) with a machine learning model (Gradient Boosting) to predict future returns. The goal is to construct an efficient portfolio with minimum variance and optimal allocation of stocks.
 
 **Objectives**
